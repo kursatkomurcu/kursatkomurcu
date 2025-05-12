@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Artificial Intelligence and Robotics.<br>👯 I’m looking to collaborate on AI or Robotics.<br>🤝 I’m looking for help with developing a mobile app and bot.<br>🌱 I’m currently learning ROS, Flutter and Machine Learning.<br>💬 Ask me about Python, AI and Robotics
+🔭 I’m currently working on Artificial Intelligence and Robotics.<br>👯 I’m looking to collaborate on AI or Robotics.<br>💬 Ask me about Python, AI and Robotics
 
 
 ## 🌐 Socials:
